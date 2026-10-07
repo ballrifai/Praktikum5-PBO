@@ -1,0 +1,5 @@
+[21-09-2026] - Hari ini belajar membuat program Java.
+[17-09-2026] - Mengerjakan tugas praktikum di rumah.
+[23-09-2026] - Makan siang bersama teman kampus.
+[19-09-2026] - Mencoba memahami konsep FileWriter.
+[25-09-2026] - Istirahat setelah menyelesaikan tugas.
